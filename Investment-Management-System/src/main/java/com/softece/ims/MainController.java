@@ -1,4 +1,4 @@
-package org.example.db;
+package com.softece.ims;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

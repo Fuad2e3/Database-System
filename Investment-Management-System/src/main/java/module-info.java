@@ -1,4 +1,4 @@
-module org.example.db {
+module com.softece.ims {
     requires javafx.controls;
     requires javafx.fxml;
 
@@ -7,6 +7,6 @@ module org.example.db {
     requires javafx.base;
 
 
-    opens org.example.db to javafx.fxml;
-    exports org.example.db;
+    opens com.softece.ims to javafx.fxml;
+    exports com.softece.ims;
 }

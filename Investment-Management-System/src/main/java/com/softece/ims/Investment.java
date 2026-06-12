@@ -1,4 +1,4 @@
-package org.example.db;
+package com.softece.ims;
 
 
 public class Investment {
